@@ -24,9 +24,22 @@ Encargado de dar el Keynote.
 Integrantes de `colomb-ia` encargados de ayudar/guiar a otros miembros, en especial a los principiantes.
 
 ## Reglas
-1. Cada reto debe tener su propio repositorio
-2. El Readme de cada reto debe de forma clara discribir el data set y el objetivo a resolver.
-3. Cada reto debe ser soportado oficialmente por lo menos por 1 lenguaje oficial.
+### Reto
+Cada reto debe:
+1. Tener su propio repositorio
+2. Discribir de forma clara en el Readme el data set y el objetivo a resolver.
+3. Ser soportado oficialmente por lo menos por 1 lenguaje, otros lenguajes pueden ser contribuidos por la comunidad. Cada lenguaje soportado implica:
+4. Tener una tabla ordenada de resultados donde cada entraba debe contener el score de la solucion, el nombre de la persona/equipo que contribuyo la solucion, y un link al repositorio con la solucion.
+  1.1. Crear un codigo "starter" en ese lenguaje que muestre como cargar y posiblemente visualizar los datos.
+  1.1. Especificar en el Readme como instalar las dependencias y ejecutar el codigo "starter".
+
+### Solucion
+Cada persona que quiere contribuir una solucion al reto debe:
+1. Clonar el repositorio del reto
+2. Especificar en el Readme como correr la solucion
+3. Crear un Pull Request en el respositorio original modificando la tabla de soluciones.
+
+Antes de aceptar una solucion primero debe haber una revision de pares donde por lo menos 1 o 2 personas de la comunidad lean, ejecuten el codigo, y verifiquen los resultados.
 
 ## Retos
 
