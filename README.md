@@ -1,5 +1,5 @@
 # Retos colomb-ia
-Hemos notado que exist un gran interes por el Machine Learnig en Colombia, sin embargo, es notorio que a la fecha de hoy (2017) la gran mayoria de personas que asisten a eventos de ML estan buscando aprender lo basico, y las personas que ya saben estan desarrollando proyectos por su cuenta pero se comunican poco con el resto de la comunidad.
+Hemos notado que exist un gran interes por el Machine Learnig y la Inteligencia Artificial en Colombia, sin embargo, es notorio que a la fecha de hoy (2017) la gran mayoria de personas que asisten a eventos de ML estan buscando aprender lo basico, y las personas que ya saben estan desarrollando proyectos por su cuenta pero se comunican poco con el resto de la comunidad.
 
 El proposito de esta iniciativa es crear una comunidad a nivel nacional que se reuna para atacar retos de Machine Learning para aprender, compartir, mejorar sus habilidades en el campo, y en conjunto ir subiendo el nivel de toda la comunidad asi como generar networking.
 
