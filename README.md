@@ -43,12 +43,12 @@ Integrantes de `colomb-ia` encargados de ayudar/guiar a otros miembros, en espec
 ### Reto
 Cada reto debe:
 1. Tener su propio repositorio
-2. Discribir de forma clara en el Readme el data set y el objetivo a resolver.
-3. Ser soportado oficialmente por lo menos por 1 lenguaje, otros lenguajes pueden ser contribuidos por la comunidad. Cada lenguaje soportado implica:
-4. Tener una tabla ordenada de resultados donde cada entraba debe contener el score de la solucion, el nombre de la persona/equipo que contribuyo la solucion, y un link al repositorio con la solucion.
-  1.1. Crear un codigo "starter" en ese lenguaje que muestre como cargar y posiblemente visualizar los datos.
-  1.1. Especificar en el Readme como instalar las dependencias y ejecutar el codigo "starter".
-
+1. Discribir de forma clara en el Readme el data set y el objetivo a resolver.
+1. Ser soportado oficialmente por lo menos por 1 lenguaje, otros lenguajes pueden ser contribuidos por la comunidad. Cada lenguaje soportado implica:
+    1. Crear un codigo "starter" en ese lenguaje que muestre como cargar y posiblemente visualizar los datos.
+    1. Especificar en el Readme como instalar las dependencias y ejecutar el codigo "starter".
+1. Tener una tabla ordenada de resultados donde cada entraba debe contener el score de la solucion, el nombre de la persona/equipo que contribuyo la solucion, y un link al repositorio con la solucion.
+  
 ### Solucion
 Cada persona que quiere contribuir una solucion al reto debe:
 1. Clonar el repositorio del reto
