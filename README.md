@@ -58,15 +58,4 @@ Cada persona que quiere contribuir una solucion al reto debe:
 Antes de aceptar una solucion primero debe haber una revision de pares donde por lo menos 1 o 2 personas de la comunidad lean, ejecuten el codigo, y verifiquen los resultados.
 
 ## Retos
-
-### Supervised Learning
-#### Principiante
-#### Intermedio
-#### Avanzado
-#### Pro
-
-### Reinforcement Learning
-#### Principiante
-#### Intermedio
-#### Avanzado
-#### Pro
+Ver lista de [retos](https://github.com/colomb-ia/retos).
