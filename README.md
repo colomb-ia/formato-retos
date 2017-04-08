@@ -3,9 +3,9 @@ Hemos notado que exist un gran interes por el Machine Learnig y la Inteligencia 
 
 El proposito de esta iniciativa es crear una comunidad a nivel nacional que se reuna para atacar retos de Machine Learning para aprender, compartir, mejorar sus habilidades en el campo, y en conjunto ir subiendo el nivel de toda la comunidad asi como generar networking.
 
-Este documento contiene un formato de Meetup practico en que gira en torno a reunirse para atacar retos de forma presencial en un periodo de tiempo de 4 a 8 horas. El formato es 100% Open Source, por lo cual invitamos a cualquiera interesado a contribuir para mejorarlo y sobre todo a implementarlo localmente con su comunidad. El uso del nombre "colomb-ia" debe hacerse bajo autorizacion de los organizadores de este repositorio.
+Este formato es 100% Open Source, por lo cual invitamos a cualquiera interesado a contribuir para mejorarlo y sobre todo a implementarlo localmente con su comunidad. El uso del nombre "colomb-ia" debe hacerse bajo autorizacion de los organizadores de este repositorio.
 
-## Formato
+### Creacion
 Cada reto debe:
 1. Tener su propio repositorio
 1. Discribir de forma clara en el Readme el data set y el objetivo a resolver.
